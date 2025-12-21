@@ -1,0 +1,78 @@
+# personal ingest plan
+
+1. Family Financial Situation
+Do my parents have debt? No
+If yes, how much do I have to pay for them? No
+How much do I financially support my parents per month? They will retire within 2 years, I need to pay them 10000 per month
+Are my parents still working or retired? Still working
+
+2. Personal Education / Overseas Plan
+Do I plan to travel Overseas in the next 2 years?
+Do I plan to study PHD (Bachelor/Master/PhD)?
+If yes, what’s the estimated total cost (tuition + living)? 
+Do I expect to work part-time or rely on savings/parents when I study? Still making decision
+
+3. Family Health and Medical Situation
+Does my family have any member with long-term health issues?
+If yes, how much is the average monthly medical cost?
+Do I expect future large medical expenses?
+
+4. Relationship and Marriage
+Do I currently have a partner? No
+Am I married? No 
+Do I have kids or plan to have kids soon? No
+How much do I spend on family or relationship expenses per month? No
+
+5. Housing and Living Situation
+Do I own a house or plan to buy one? Plan to buy one but not now
+If renting, how much is the monthly rent? 7000 per month
+Do I have a mortgage? If yes, how much per month? no
+Do I live alone or share housing? live alone
+
+6. Transportation
+Do I own a car or motorcycle? if so, how much is your motorcycle/car if you sell it now? yes, a motorcycle, I can sell around 52000
+Do I plan to buy one soon? no
+What’s my average monthly transportation expense (fuel, insurance, etc.)? insurance aroud 2600 per year, fuel aroud 300 per month
+
+7. Investments and Assets
+Do I currently invest in stocks, ETFs, or crypto? yes, I have 0050 and 0056
+What percentage of income do I invest monthly? around 500
+What’s the total portfolio value (approximate)? 100000
+What’s my investment style? (Aggressive / Moderate / Conservative) Moderate
+
+8. Income Record
+What’s my monthly income (salary + bonus + investment)? Now I have income 27000 per month
+Do I have any passive income sources? (rental, dividend, side job) not stable
+If I’m a student, how much do I receive from parents per month? No
+
+9. Monthly Expenses
+What’s my total monthly expense on average? 
+How much do I spend on necessities (food, utilities, rent)?
+How much do I spend on insurance, entertainment, subscriptions, etc.?
+Do I have any irregular large expenses (gifts, travel, gadgets)?
+
+10. Debt and Loans
+Do I have any debt (credit card, student loan, personal loan)?
+What’s the total monthly payment?
+What’s the total outstanding debt amount?
+
+11. Emergency Fund and Savings
+Do I have an emergency fund?
+How many months of living expenses can it cover?
+Do I save money every month? If yes, how much (%) of income?
+
+12. Financial Goals and Timeline
+What are my short-term goals (1–2 years)? (e.g., buy car, travel, pay off debt)
+What are my medium-term goals (3–5 years)? (e.g., buy house, invest more)
+What are my long-term goals (10+ years)? (e.g., retirement, education fund) Become an AI engineer and master in this field, plan to be a manager
+When do I plan to retire? 65 
+
+13. Risk Tolerance & Personality
+How would I describe my risk tolerance? (Low / Medium / High) Medium
+How do I feel about market fluctuations? (Anxious / Neutral / Excited) Anxious
+Do I prefer stable returns or higher potential growth? Riskly but higher potential growth
+
+14. Special Life Events
+Am I expecting any major changes soon (moving, marriage, job change)?
+Any upcoming large financial responsibility (wedding, medical, education)?
+Any uncertain plans that might affect income (startup, sabbatical, travel)?

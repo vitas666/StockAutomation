@@ -1,0 +1,7 @@
+langchain-google-genai
+langchain_text_splitters
+langchain_community
+google-generativeai==0.7.2
+langchain_pinecone
+pinecone==4.0.0
+grpcio==1.63.0

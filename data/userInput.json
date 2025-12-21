@@ -1,0 +1,16 @@
+{
+  "name": "Vitas",
+  "monthly_income": 80000,
+  "monthly_outcome": 30000,
+  "assets": {
+    "cash": 200000,
+    "stocks": 300000,
+    "crypto": 100000
+  },
+  "liabilities": {
+    "mortgage": 800000,
+    "credit_card": 20000
+  },
+  "risk_profile": "moderate",
+  "financial_goal": "3年內存到50萬投資基金"
+}
