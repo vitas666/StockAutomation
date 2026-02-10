@@ -1,16 +1,23 @@
 {
+  "user_uid": "123456789", 
   "name": "Vitas",
   "monthly_income": 80000,
   "monthly_outcome": 30000,
+  "age": 30,
   "assets": {
     "cash": 200000,
     "stocks": 300000,
-    "crypto": 100000
+    "crypto": 0
+  },
+  "insurance": {
+    "health_insurance": 1000000,
+    "accident_insurance": 500000
   },
   "liabilities": {
     "mortgage": 800000,
     "credit_card": 20000
   },
   "risk_profile": "moderate",
+  "experience_level": "beginner",
   "financial_goal": "3年內存到50萬投資基金"
 }
